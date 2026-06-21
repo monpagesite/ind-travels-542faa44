@@ -133,10 +133,10 @@ export const siteContent = {
   
   contact: {
     headline: "Get in touch",
-    whatsappNumber: "+919876543210",
+    whatsappNumber: "+917557891783",
     whatsappText: "Hi! I'd like to plan a trip with Ind Travels.",
     email: "hello@indtravels.com",
-    phone: "+91 98765 43210",
+    phone: "+91 75578 91783",
     address: "Mumbai, Maharashtra, India",
   },
   
